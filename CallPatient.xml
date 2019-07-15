@@ -1,0 +1,9 @@
+<Extensions><Version>1.5</Version><Panel>
+    <PanelId>CallPatient</PanelId>
+    <Type>Home</Type>
+    <Icon>Helpdesk</Icon>
+    <Order>1</Order>
+    <Color>#FF3D67</Color>
+    <Name>Call Patient</Name>
+  </Panel>
+</Extensions>
